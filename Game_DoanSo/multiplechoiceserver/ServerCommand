@@ -1,0 +1,21 @@
+Worker
+    loginsuccess
+    loginfail
+    emailkhonghople
+    UserInfo
+    signupsuccess
+signupfail
+    updateinfoerror
+    updateinfosuccess
+
+    wait
+    nothing
+Pair
+    game
+    time
+    lucky
+    next
+    result
+IClicked
+opponentClicked
+blackout
