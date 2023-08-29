@@ -1,5 +1,6 @@
-# Games tìm số
 
+# Games tìm số
+Sử dụng ngôn ngữ chính java, mô hình client-server, giao tiếp bằng TCP socket
 * phía Client
 - cho phép 2-3 người chơi cùng
 - Hiển thị 100 số từ 1 ->  100 ( có thể cấu hình lại từ phía server)
