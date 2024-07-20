@@ -1,3 +1,4 @@
+TCP socket
 
 # Games tìm số
 Sử dụng ngôn ngữ chính java, mô hình client-server, giao tiếp bằng TCP socket
